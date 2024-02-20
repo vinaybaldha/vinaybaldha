@@ -42,11 +42,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=helindevani&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="helindevani" /></p>
+<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=vinaybaldha&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="vinaybaldha" /></p>
 
-<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=helindevani&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="helindevani"/></p>
+<p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=vinaybaldha&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="vinaybaldha"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helindevani&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="helindevani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaybaldha&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="vinaybaldha" /></p>
 
-[![An image of @helindevani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/helindevani)](https://holopin.io/@helindevani)
-<h1 align="center">
+
