@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/vinaybaldha/vinaybaldha/main/name.svg" alt="vinaybaldha" />
+  <img src="https://raw.githubusercontent.com/vinaybaldha/vinaybaldha/master/name.svg" alt="vinaybaldha" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Vinay Baldha</h1>
@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/baldha-vinay-8a039a1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="baldha-vinay-8a039a1b3" height="30" width="40" /></a>
-<a href="https://www.facebook.com/vinay.baldha.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/facebook.svg" alt="vinay.baldha.3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/baldha_vinay_45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="baldha_vinay_45" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/baldha-vinay-8a039a1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baldha-vinay-8a039a1b3" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vinay.baldha.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinay.baldha.3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/baldha_vinay_45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baldha_vinay_45" height="30" width="40" /></a>
 
 
 </p>
