@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/vinaybaldha/vinaybaldha/master/name.svg" alt="vinaybaldha" />
+  <img src="https://raw.githubusercontent.com/vinaybaldha/vinaybaldha/master/name.html" alt="vinaybaldha" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Vinay Baldha</h1>
